@@ -1,0 +1,20 @@
+ 1. the dog sat on the rug
+ 2. the dog sat on the mat
+ 3. the cat sat on the mat
+ 4. the dog sat on the mat
+ 5. the dog sat on the rug
+ 6. the dog ran to the park
+ 7. the dog sat on the rug
+ 8. the cat sat on the mat
+ 9. the dog sat on the mat
+10. the dog sat on the mat
+11. the dog sat on the rug
+12. the cat sat on the mat
+13. the dog sat on the rug
+14. the cat sat on the rug
+15. the cat sat on the mat
+16. the cat sat on the mat
+17. the dog sat on the mat
+18. the dog sat on the mat
+19. the cat ran to the park
+20. the dog ran to the park
