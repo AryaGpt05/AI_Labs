@@ -117,8 +117,8 @@ AI Labs/
 ### 2. Environment Installation
 ```bash
 # Clone the repository
-git clone https://github.com/AryaGpt05/CS-F407-AI-AY2026-27-S1.git
-cd CS-F407-AI-AY2026-27-S1
+git clone https://github.com/AryaGpt05/AI_Labs.git
+cd AI_Labs
 
 # Create and activate virtual environment
 python -m venv .venv
